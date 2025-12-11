@@ -1,4 +1,4 @@
-# Store Item Demand Forecasting
+# AI-Driven-Inventory-Sales-Forecasting-System
 
 <img src="reports/store_img.jpg" width=800px height=350px>
 
@@ -243,9 +243,3 @@ deactivate
 The dataset was collected from kaggle
 Link: https://www.kaggle.com/competitions/demand-forecasting-kernels-only/overview
 
-# 11. Contact me
-Linkedin: https://www.linkedin.com/in/pedro-almeida-ds/
-
-Github: https://github.com/allmeidaapedro
-
-Gmail: pedrooalmeida.net@gmail.com
