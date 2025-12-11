@@ -47,7 +47,7 @@ Each of these steps is approached in detail inside the notebooks.
 
 CRISP-DM framework
 
-<img src="reports/crispdm.jpg" width=600px height=350px>
+<img src="reports/crisp.jpg" width=600px height=350px>
 
 # 6. Main business insights
 1. The sales present and increasing trend over the years. Seasonality is also present, the sales are higher around july.
