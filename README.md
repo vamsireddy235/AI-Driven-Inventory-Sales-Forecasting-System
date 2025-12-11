@@ -1,6 +1,6 @@
 # AI-Driven-Inventory-Sales-Forecasting-System
 
-<img src="reports/store_img.jpg" width=800px height=350px>
+<img src="reports/store.png" width=800px height=350px>
 
 # 1. Project description
 - In this project, I performed time series forecasting using LightGBM. I predicted sales for 50 items across 10 different stores for a three-month period. The data covers 5 years (from 2013-01-01 to 2017-12-31) of sales.
